@@ -2,7 +2,7 @@
   "name": "sheeptech",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://omar2811.github.io/omar2811",
+  "homepage": "http://omar2811.github.io/sheeptech",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
