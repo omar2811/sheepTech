@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sheeptech/static/css/main.f855e6bc.css",
-    "main.js": "/sheeptech/static/js/main.b0ed5803.js",
-    "static/js/787.16f20621.chunk.js": "/sheeptech/static/js/787.16f20621.chunk.js",
-    "static/media/logo.svg": "/sheeptech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sheeptech/index.html",
-    "main.f855e6bc.css.map": "/sheeptech/static/css/main.f855e6bc.css.map",
-    "main.b0ed5803.js.map": "/sheeptech/static/js/main.b0ed5803.js.map",
-    "787.16f20621.chunk.js.map": "/sheeptech/static/js/787.16f20621.chunk.js.map"
+    "main.css": "/sheepTech/static/css/main.f855e6bc.css",
+    "main.js": "/sheepTech/static/js/main.e26bac20.js",
+    "static/js/787.16f20621.chunk.js": "/sheepTech/static/js/787.16f20621.chunk.js",
+    "static/media/logo.svg": "/sheepTech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sheepTech/index.html",
+    "main.f855e6bc.css.map": "/sheepTech/static/css/main.f855e6bc.css.map",
+    "main.e26bac20.js.map": "/sheepTech/static/js/main.e26bac20.js.map",
+    "787.16f20621.chunk.js.map": "/sheepTech/static/js/787.16f20621.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b0ed5803.js"
+    "static/js/main.e26bac20.js"
   ]
 }
