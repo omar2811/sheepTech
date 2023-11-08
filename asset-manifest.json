@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/sheepTech/static/css/main.b1d7ec7b.css",
-    "main.js": "/sheepTech/static/js/main.03dd4342.js",
+    "main.css": "/sheepTech/static/css/main.932647ed.css",
+    "main.js": "/sheepTech/static/js/main.cdbcac92.js",
     "static/js/787.16f20621.chunk.js": "/sheepTech/static/js/787.16f20621.chunk.js",
+    "static/media/fondo-de-pantalla-inspirado-en-estas-dos-palabras-upscaled.png": "/sheepTech/static/media/fondo-de-pantalla-inspirado-en-estas-dos-palabras-upscaled.6f4e5ca3261618989b1c.png",
     "index.html": "/sheepTech/index.html",
-    "main.b1d7ec7b.css.map": "/sheepTech/static/css/main.b1d7ec7b.css.map",
-    "main.03dd4342.js.map": "/sheepTech/static/js/main.03dd4342.js.map",
+    "main.932647ed.css.map": "/sheepTech/static/css/main.932647ed.css.map",
+    "main.cdbcac92.js.map": "/sheepTech/static/js/main.cdbcac92.js.map",
     "787.16f20621.chunk.js.map": "/sheepTech/static/js/787.16f20621.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1d7ec7b.css",
-    "static/js/main.03dd4342.js"
+    "static/css/main.932647ed.css",
+    "static/js/main.cdbcac92.js"
   ]
 }
